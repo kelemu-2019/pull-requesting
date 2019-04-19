@@ -33,18 +33,18 @@ Repeat this mini project until it is easy:
   1. Open a new repository and call it something like "study-buddies".
   2. Make a simple README (so your repo can be forked)
 2. Project - take turns assigning issues and making pull requests:
-  * Go around the circle taking turns as "project manager" - the person who started the repo and who merges pull requests
-  1. The PM will ask questions:
+  * Go around the circle taking turns as "repository owner (RO)" - the person who started the repo and who merges pull requests
+  1. The RO will ask questions:
     1. Create on issue in their repo for each person in the group
       * Use the issues to ask each person a question like, "do you have brothers or sisters?"
       * Mention the person you're asking in the body of the issue (ie. @username)
-  2. Each person will answer their PM's question:
+  2. Each person will answer their RO's question:
       1. Find your mentioned issues in issues/mentioned
       2. Follow the link to the project repo
-      3. Create a fork of the PM's repo
+      3. Create a fork of the RO's repo
       4. In the fork, create a new file and answer their question
       5. Send them a pull request, mention your issue in the body (ie. #3)
-  3. The PM will accept or reject each answer:
+  3. The RO will accept or reject each answer:
       1. Check pull requests
       2. Review the answers
       3. Either merge, or ask for better answers
