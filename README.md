@@ -49,6 +49,11 @@ Repeat this mini project until it is easy:
       2. Review the answers
       3. Either merge, or ask for better answers
       4. Close each person's issue once you've accepted their answers
+  4. Visualize your forks and merges as a graph like in learngitbranching
+      1. Go to the RO's repository
+      1. Click on "Insights" in the menu below the repository name
+      1. Click on "Network" in the panel on the left
+      1. Voila!  The forks and merges will be drawn like a graph of bubbles and arrows
 
 ![](./gh-chat-board.png)
 
