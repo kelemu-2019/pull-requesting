@@ -35,9 +35,9 @@ Repeat this mini project until it is easy:
 2. Project - take turns assigning issues and making pull requests:
   * Go around the circle taking turns as "repository owner (RO)" - the person who started the repo and who merges pull requests
   1. The RO will ask questions:
-    1. Create on issue in their repo for each person in the group
-      * Use the issues to ask each person a question like, "do you have brothers or sisters?"
-      * Mention the person you're asking in the body of the issue (ie. @username)
+      1. Create on issue in their repo for each person in the group
+      1. Use the issues to ask each person a question like, "do you have brothers or sisters?"
+      1. Mention the person you're asking in the body of the issue (ie. @username)
   2. Each person will answer their RO's question:
       1. Find your mentioned issues in issues/mentioned
       2. Follow the link to the project repo
